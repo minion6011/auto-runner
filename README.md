@@ -1,4 +1,4 @@
-# auto-runner
+# auto-runner - [Deprecated]
 
 ### ⚠️ Warning
 
